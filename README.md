@@ -17,6 +17,26 @@ This project revolutionizes SQL education by making database learning engaging, 
   - `Tkinter` for the graphical interface.
   - `tabulate` for result visualization.
 
+## Screenshots
+
+### 1. **Dynamic Schema Creation**
+Displays the output after providing a theme. The system dynamically generates schemas with relevant tables and dummy data.  
+![Dynamic Schema Creation](path/to/screenshot1.png)
+
+---
+
+### 2. **SQL Learning Concepts & Practice Questions**
+Showcases basic SQL concepts (e.g., `SELECT`, `WHERE`, `COUNT`) with personalized practice questions.  
+![SQL Learning Concepts](path/to/screenshot2.png)
+
+---
+
+### 3. **SQL Query Editor**
+Interactive SQL editor where users can write and run queries on the generated database.  
+![SQL Query Editor](path/to/screenshot3.png)
+
+---
+
 ## Key Benefits
 - **Personalization:** Tailored learning experiences based on user-selected themes.
 - **Hands-On Learning:** Enables students to interact with databases in real time.
