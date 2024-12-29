@@ -17,7 +17,7 @@ This project revolutionizes SQL education by making database learning engaging, 
   - `Tkinter` for the graphical interface.
   - `tabulate` for result visualization.
 
-## Snipets
+## Snapshots
 
 ### 1. **Dynamic Schema Creation**
 Displays the output after providing a theme. The system dynamically generates schemas with relevant tables and dummy data.  
