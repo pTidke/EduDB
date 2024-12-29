@@ -2,6 +2,14 @@
 
 This project revolutionizes SQL education by making database learning engaging, interactive, and personalized, especially for beginners and K-12 students. It uses **Generative AI** to dynamically design databases, create dummy data, and generate SQL practice questions based on user-selected themes (e.g., Pokémon characters).
 
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=UFZCdeglEIU">
+    <img src="https://img.shields.io/badge/Watch-YouTube%20Video-red?style=for-the-badge" alt="YouTube Video">
+  </a>
+</div>
+
+---
+
 ## Features
 - **Dynamic Database Creation:** Personalized database schemas based on user preferences.
 - **Custom Dummy Data Generation:** Realistic data aligned with chosen themes.
