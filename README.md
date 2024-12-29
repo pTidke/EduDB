@@ -21,19 +21,22 @@ This project revolutionizes SQL education by making database learning engaging, 
 
 ### 1. **Dynamic Schema Creation**
 Displays the output after providing a theme. The system dynamically generates schemas with relevant tables and dummy data.  
-![Dynamic Schema Creation](path/to/screenshot1.png)
+
+![Dynamic Schema Creation](dynamic_table_creation.jpeg)
 
 ---
 
 ### 2. **SQL Learning Concepts & Practice Questions**
 Showcases basic SQL concepts (e.g., `SELECT`, `WHERE`, `COUNT`) with personalized practice questions.  
-![SQL Learning Concepts](path/to/screenshot2.png)
+
+![SQL Learning Concepts](sql_concepts.jpeg)
 
 ---
 
 ### 3. **SQL Query Editor**
 Interactive SQL editor where users can write and run queries on the generated database.  
-![SQL Query Editor](path/to/screenshot3.png)
+
+![SQL Query Editor](sql_editor.jpeg)
 
 ---
 
